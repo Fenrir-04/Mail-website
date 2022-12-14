@@ -1,2 +1,2 @@
-# Mail-website
-A front-end to fetch mails.
+# MI-Online-store
+A Clone of MI online store using React.js
